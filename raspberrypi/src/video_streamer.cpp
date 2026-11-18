@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstdlib>
 
-// 클래스 명시(VideoStreamer::)가 빠지면 링커가 못 찾습니다!
+// 클래스 명시(VideoStreamer::)가 빠지면 링커가 못 찾는다
 VideoStreamer::VideoStreamer(const std::string& ip, int port) 
     : target_ip(ip), target_port(port) {}
 
