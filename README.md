@@ -40,7 +40,7 @@ STM32 기반 모터 제어기를 연동한 모터 속도 제어 및
 | Language | C, C++ |
 | OS | Linux |
 | Framework & Library | Qt, STM32 HAL |
-| Communication | UDP/IP, CAN |
+| Communication | UDP, CAN |
 | Hardware | STM32F103, Raspberry Pi 4, CSI Camera, L298N |
 
 ## 5. 주요 설계 및 개발 성과 (Key Achievements)
